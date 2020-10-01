@@ -8,10 +8,10 @@
 
 **Class Times:** Monday, Wednesday 4–6pm (11 class sessions)
 
-| Class |        Date         |               Topics                |
-|:-----:|:-------------------:|:-----------------------------------:|
-|   1   | Wednesday, April 25 | [Bit Manipulation]                  |
-|   2   |    Monday, April 30 | [Tree Traversals]                   |
+| Class |        Date         |               Topics                |        sources                                                 |        
+|:-----:|:-------------------:|:-----------------------------------:|:---------------------------------------------------------------|
+|   1   | Wednesday, April 25 | [Bit Manipulation]                  | [https://www.youtube.com/watch?v=v62IKeJtj0k]                  |
+|   2   |    Monday, April 30 | [Tree Traversals]                   | [https://www.youtube.com/watch?v=xo41NfT8218]                  |             
 |   3   | Wednesday, May 2    | [Priority Queues & Heaps]           |
 |   4   |    Monday, May 7    | [Rotating Binary Search Trees]      |
 |   5   | Wednesday, May 9    | [Tries & K-ary Search Trees]        |
